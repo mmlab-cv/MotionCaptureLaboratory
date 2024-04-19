@@ -3,8 +3,8 @@ import operator
 import numpy as np
 import numpy.core.umath_tests as ut
 
-import utils.AnimationStructure
-from utils.Quaternions_old import Quaternions
+import AnimationStructure
+from Quaternions_old import Quaternions
 
 class Animation:
     """
